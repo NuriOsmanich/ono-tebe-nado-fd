@@ -50,6 +50,7 @@
   align-items: flex-start;
   font-weight: 400;
   font-size: 18px;
+  font-style: bold;
 }
 
 .header__address {
