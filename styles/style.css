@@ -50,7 +50,7 @@
   align-items: flex-start;
   font-weight: 400;
   font-size: 18px;
-  font-style: bold;
+  font-style: normal;
 }
 
 .header__address {
@@ -296,7 +296,6 @@ background-image: url(../images/card-lot-03.jpg);
   gap: 24px;
   margin-top: 100px;
   margin-right: 5px;
-  font-family: Raleway;
   font-weight: 400;
   font-size: 20px;
 }
@@ -310,6 +309,7 @@ background-image: url(../images/card-lot-03.jpg);
   margin-top: 180px;
   padding-right: 50px;
   padding-left: 50px;
+  padding-bottom: 82px;
 }
 
 .footer__menu {
